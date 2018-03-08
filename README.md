@@ -18,15 +18,15 @@
 ### spy++获取窗口、矩阵信息（vs下有集成）
 1. 打开spy++与连连看程序。
 2. 如图，获取连连看程序进程名（便于获取游戏窗口句柄）。
-![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/04.png)
+![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/04.png)</br>
 ![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/05.png)
 
 
 3. 如图，获取连连看首方块位置，获取其xPos、yPos，便于鼠标定位。
-![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/06.png)
-![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/07.png)
-![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/08.png)
-![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/09.png)
+![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/06.png)</br>
+![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/07.png)</br>
+![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/08.png)</br>
+![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/09.png)</br>
 ![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/10.png)
 
 

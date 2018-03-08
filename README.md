@@ -30,5 +30,5 @@
 ![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/10.png)
 
 
-4. 使用截图工具，截取一个方块的图片,测量图片尺寸为（31*35）,即获得方块尺寸为（31*35）。</br>
+4. 使用截图工具，截取一个方块的图片,测量图片尺寸为（31×35）,即获得方块尺寸为（31×35）。</br>
 ![image](https://github.com/Gaveu/qqGame-LinkUp-Mahjong-CheatProgram/blob/master/LLKfuzhu/picture/11.png)

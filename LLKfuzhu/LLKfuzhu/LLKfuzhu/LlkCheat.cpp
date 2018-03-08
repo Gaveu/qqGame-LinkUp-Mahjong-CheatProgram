@@ -176,7 +176,7 @@ Status Llkcheat::elemClick(elem &firElem, elem &secElem)	//¸ù¾İ´«ÈëÁ½¸öElemµÄ×ø±
 	mouse_event(MOUSEEVENTF_LEFTUP, 0, 0, 0, 0);
 
 	//firElemµã»÷
-	Sleep(10);
+	Sleep(180);			//µ¥»÷Ë¯ÃßÊ±¼ä£¬¹ıµÍÔòÏÔµÃ²»ÕæÊµ£¬¹ı¸ßÔòĞ§ÂÊÌ«µÍ£¬Îª»ñµÃÓÎÏ·ÌåÑéÇëÊÊ¶Èµ÷½Ú
 	x = r1.left + 25 + firElem.x * 31;
 	y = r1.top + 195 + firElem.y * 35;
 	//ÉèÖÃÊó±êÎ»ÖÃ
@@ -187,7 +187,7 @@ Status Llkcheat::elemClick(elem &firElem, elem &secElem)	//¸ù¾İ´«ÈëÁ½¸öElemµÄ×ø±
 
 	
 	//secElemµã»÷
-	Sleep(10);
+	Sleep(180);			//µ¥»÷Ë¯ÃßÊ±¼ä£¬¹ıµÍÔòÏÔµÃ²»ÕæÊµ£¬¹ı¸ßÔòĞ§ÂÊÌ«µÍ£¬Îª»ñµÃÓÎÏ·ÌåÑéÇëÊÊ¶Èµ÷½Ú
 	x = r1.left + 25 + secElem.x * 31;
 	y = r1.top + 195 + secElem.y * 35;
 	//ÉèÖÃÊó±êÎ»ÖÃ
@@ -210,7 +210,7 @@ void Llkcheat::valueClear()								//Á¬Á¬¿´ÔªËØÏû³ı×Üº¯Êı,Ñ­»·
 		InMap();		//Â¼ÈëmapĞÅÏ¢
 		mapClick();		//¸ù¾İmapÍ¨¹ıÒıµ¼Êó±êµã»÷ÒÔÏû³ı·½¿é
 		i++;
-		if (10 == i)	//ÖĞ¶Ï´úÂë,ÓÃÓÚ´¦ÀíarrMap.size()ÓÀ²»Îª0¶øÎŞÏŞÑ­»·µÄÇé¿ö£¬Ã¿Ñ­»·10´ÎÔİÍ£Ò»´Î
+		if (5 == i)	//ÖĞ¶Ï´úÂë,ÓÃÓÚ´¦ÀíarrMap.size()ÓÀ²»Îª0¶øÎŞÏŞÑ­»·µÄÇé¿ö£¬Ã¿Ñ­»·10´ÎÔİÍ£Ò»´Î
 		{
 			cout << "continue" << endl;
 			getchar();
